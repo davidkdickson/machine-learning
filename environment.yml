@@ -1,0 +1,6 @@
+name: basic
+dependencies:
+- numpy
+- pandas
+- matplotlib
+- python>=3.6.0
